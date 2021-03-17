@@ -1,0 +1,14 @@
+Hi,
+
+This Repository Has 2 java files
+
+1, TrianglePattern.java	 	2, Grocery.java
+
+1 ans) TrianglePattern file has Answer to Both the Pattern Problems
+
+2 ans) Grocery file has Answer to the Grocery Problem
+
+Looking forward for Reply
+
+Thanks Regards,
+Mohammed Aslam
