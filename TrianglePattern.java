@@ -6,6 +6,7 @@ public class TrianglePattern
 {
 	public static void main(String[] args) 
 	{
+		System.out.println("Hello everyone!");
 		Scanner scan=new Scanner(System.in);
 		System.out.println("Enter no of Columns");
 		int x=scan.nextInt();		
